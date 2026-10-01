@@ -1,0 +1,3 @@
+# Distribute dataset archives as GitHub Release assets.
+*.zip
+ck_original/

@@ -1,0 +1,1233 @@
+{
+  "archive": "ck_original.zip",
+  "archive_bytes": 440653384,
+  "archive_sha256": "68690ad381a488d58303b8f0d3029e475db5234001542d015e77590b665da463",
+  "file_count": 306,
+  "total_uncompressed_bytes": 2092655854,
+  "files": [
+    {
+      "path": "ck_original/p10_f33_m1.csv",
+      "uncompressed_bytes": 7232642
+    },
+    {
+      "path": "ck_original/p10_f33_m2.csv",
+      "uncompressed_bytes": 7096173
+    },
+    {
+      "path": "ck_original/p10_f33_m3.csv",
+      "uncompressed_bytes": 7229385
+    },
+    {
+      "path": "ck_original/p10_f34_m1.csv",
+      "uncompressed_bytes": 7549936
+    },
+    {
+      "path": "ck_original/p10_f34_m2.csv",
+      "uncompressed_bytes": 7698792
+    },
+    {
+      "path": "ck_original/p10_f34_m3.csv",
+      "uncompressed_bytes": 7839991
+    },
+    {
+      "path": "ck_original/p10_f35_m1.csv",
+      "uncompressed_bytes": 7624209
+    },
+    {
+      "path": "ck_original/p10_f35_m2.csv",
+      "uncompressed_bytes": 7768062
+    },
+    {
+      "path": "ck_original/p10_f35_m3.csv",
+      "uncompressed_bytes": 7622884
+    },
+    {
+      "path": "ck_original/p10_f36_m1.csv",
+      "uncompressed_bytes": 5440662
+    },
+    {
+      "path": "ck_original/p10_f36_m2.csv",
+      "uncompressed_bytes": 5327575
+    },
+    {
+      "path": "ck_original/p10_f36_m3.csv",
+      "uncompressed_bytes": 5543208
+    },
+    {
+      "path": "ck_original/p10_f37_m1.csv",
+      "uncompressed_bytes": 6857642
+    },
+    {
+      "path": "ck_original/p10_f37_m2.csv",
+      "uncompressed_bytes": 6722214
+    },
+    {
+      "path": "ck_original/p10_f37_m3.csv",
+      "uncompressed_bytes": 6863958
+    },
+    {
+      "path": "ck_original/p10_f38_m1.csv",
+      "uncompressed_bytes": 6148886
+    },
+    {
+      "path": "ck_original/p10_f38_m2.csv",
+      "uncompressed_bytes": 6037094
+    },
+    {
+      "path": "ck_original/p10_f38_m3.csv",
+      "uncompressed_bytes": 6154742
+    },
+    {
+      "path": "ck_original/p10_f39_m1.csv",
+      "uncompressed_bytes": 7237945
+    },
+    {
+      "path": "ck_original/p10_f39_m2.csv",
+      "uncompressed_bytes": 7098898
+    },
+    {
+      "path": "ck_original/p10_f39_m3.csv",
+      "uncompressed_bytes": 7243784
+    },
+    {
+      "path": "ck_original/p11_f40_m1.csv",
+      "uncompressed_bytes": 8346706
+    },
+    {
+      "path": "ck_original/p11_f40_m2.csv",
+      "uncompressed_bytes": 8232937
+    },
+    {
+      "path": "ck_original/p11_f40_m3.csv",
+      "uncompressed_bytes": 8242766
+    },
+    {
+      "path": "ck_original/p11_f41_m1.csv",
+      "uncompressed_bytes": 7700632
+    },
+    {
+      "path": "ck_original/p11_f41_m2.csv",
+      "uncompressed_bytes": 7703392
+    },
+    {
+      "path": "ck_original/p11_f41_m3.csv",
+      "uncompressed_bytes": 7554782
+    },
+    {
+      "path": "ck_original/p12_f42_m1.csv",
+      "uncompressed_bytes": 7234987
+    },
+    {
+      "path": "ck_original/p12_f42_m2.csv",
+      "uncompressed_bytes": 7266970
+    },
+    {
+      "path": "ck_original/p12_f42_m3.csv",
+      "uncompressed_bytes": 7364822
+    },
+    {
+      "path": "ck_original/p12_f43_m1.csv",
+      "uncompressed_bytes": 7839661
+    },
+    {
+      "path": "ck_original/p12_f43_m2.csv",
+      "uncompressed_bytes": 7990616
+    },
+    {
+      "path": "ck_original/p12_f43_m3.csv",
+      "uncompressed_bytes": 7990525
+    },
+    {
+      "path": "ck_original/p12_f44_m1.csv",
+      "uncompressed_bytes": 7678171
+    },
+    {
+      "path": "ck_original/p12_f44_m2.csv",
+      "uncompressed_bytes": 7378647
+    },
+    {
+      "path": "ck_original/p12_f44_m3.csv",
+      "uncompressed_bytes": 7569361
+    },
+    {
+      "path": "ck_original/p12_f45_m1.csv",
+      "uncompressed_bytes": 3925428
+    },
+    {
+      "path": "ck_original/p12_f45_m2.csv",
+      "uncompressed_bytes": 3925428
+    },
+    {
+      "path": "ck_original/p12_f45_m3.csv",
+      "uncompressed_bytes": 3982526
+    },
+    {
+      "path": "ck_original/p12_f46_m1.csv",
+      "uncompressed_bytes": 7276905
+    },
+    {
+      "path": "ck_original/p12_f46_m2.csv",
+      "uncompressed_bytes": 7229277
+    },
+    {
+      "path": "ck_original/p12_f46_m3.csv",
+      "uncompressed_bytes": 7224846
+    },
+    {
+      "path": "ck_original/p13_f47_m1.csv",
+      "uncompressed_bytes": 7915796
+    },
+    {
+      "path": "ck_original/p13_f47_m2.csv",
+      "uncompressed_bytes": 7906828
+    },
+    {
+      "path": "ck_original/p13_f47_m3.csv",
+      "uncompressed_bytes": 8065203
+    },
+    {
+      "path": "ck_original/p13_f48_m1.csv",
+      "uncompressed_bytes": 7837916
+    },
+    {
+      "path": "ck_original/p13_f48_m2.csv",
+      "uncompressed_bytes": 7847284
+    },
+    {
+      "path": "ck_original/p13_f48_m3.csv",
+      "uncompressed_bytes": 7700515
+    },
+    {
+      "path": "ck_original/p13_f49_m1.csv",
+      "uncompressed_bytes": 7526034
+    },
+    {
+      "path": "ck_original/p13_f49_m2.csv",
+      "uncompressed_bytes": 7530408
+    },
+    {
+      "path": "ck_original/p13_f49_m3.csv",
+      "uncompressed_bytes": 7518270
+    },
+    {
+      "path": "ck_original/p14_f50_m1.csv",
+      "uncompressed_bytes": 7733595
+    },
+    {
+      "path": "ck_original/p14_f50_m2.csv",
+      "uncompressed_bytes": 7600036
+    },
+    {
+      "path": "ck_original/p14_f50_m3.csv",
+      "uncompressed_bytes": 7266453
+    },
+    {
+      "path": "ck_original/p14_f51_m1.csv",
+      "uncompressed_bytes": 11117493
+    },
+    {
+      "path": "ck_original/p14_f51_m2.csv",
+      "uncompressed_bytes": 11323670
+    },
+    {
+      "path": "ck_original/p14_f51_m3.csv",
+      "uncompressed_bytes": 11327352
+    },
+    {
+      "path": "ck_original/p14_f52_m1.csv",
+      "uncompressed_bytes": 8581759
+    },
+    {
+      "path": "ck_original/p14_f52_m2.csv",
+      "uncompressed_bytes": 8747917
+    },
+    {
+      "path": "ck_original/p14_f52_m3.csv",
+      "uncompressed_bytes": 8911438
+    },
+    {
+      "path": "ck_original/p15_f53_m1.csv",
+      "uncompressed_bytes": 3982488
+    },
+    {
+      "path": "ck_original/p15_f53_m2.csv",
+      "uncompressed_bytes": 3954054
+    },
+    {
+      "path": "ck_original/p15_f53_m3.csv",
+      "uncompressed_bytes": 4111952
+    },
+    {
+      "path": "ck_original/p15_f54_m1.csv",
+      "uncompressed_bytes": 8415318
+    },
+    {
+      "path": "ck_original/p15_f54_m2.csv",
+      "uncompressed_bytes": 8400995
+    },
+    {
+      "path": "ck_original/p15_f54_m3.csv",
+      "uncompressed_bytes": 8260044
+    },
+    {
+      "path": "ck_original/p15_f55_m1.csv",
+      "uncompressed_bytes": 8042379
+    },
+    {
+      "path": "ck_original/p15_f55_m2.csv",
+      "uncompressed_bytes": 8100624
+    },
+    {
+      "path": "ck_original/p15_f55_m3.csv",
+      "uncompressed_bytes": 8265805
+    },
+    {
+      "path": "ck_original/p16_f56_m1.csv",
+      "uncompressed_bytes": 7345356
+    },
+    {
+      "path": "ck_original/p16_f56_m2.csv",
+      "uncompressed_bytes": 7246227
+    },
+    {
+      "path": "ck_original/p16_f56_m3.csv",
+      "uncompressed_bytes": 7391511
+    },
+    {
+      "path": "ck_original/p16_f57_m1.csv",
+      "uncompressed_bytes": 7463785
+    },
+    {
+      "path": "ck_original/p16_f57_m2.csv",
+      "uncompressed_bytes": 7266045
+    },
+    {
+      "path": "ck_original/p16_f57_m3.csv",
+      "uncompressed_bytes": 7505079
+    },
+    {
+      "path": "ck_original/p16_f58_m1.csv",
+      "uncompressed_bytes": 6306948
+    },
+    {
+      "path": "ck_original/p16_f58_m2.csv",
+      "uncompressed_bytes": 6283944
+    },
+    {
+      "path": "ck_original/p16_f58_m3.csv",
+      "uncompressed_bytes": 6419024
+    },
+    {
+      "path": "ck_original/p17_f59_m1.csv",
+      "uncompressed_bytes": 8950411
+    },
+    {
+      "path": "ck_original/p17_f59_m2.csv",
+      "uncompressed_bytes": 7100564
+    },
+    {
+      "path": "ck_original/p17_f59_m3.csv",
+      "uncompressed_bytes": 8768416
+    },
+    {
+      "path": "ck_original/p17_f60_m1.csv",
+      "uncompressed_bytes": 7676032
+    },
+    {
+      "path": "ck_original/p17_f60_m2.csv",
+      "uncompressed_bytes": 7689470
+    },
+    {
+      "path": "ck_original/p17_f60_m3.csv",
+      "uncompressed_bytes": 7822270
+    },
+    {
+      "path": "ck_original/p17_f61_m1.csv",
+      "uncompressed_bytes": 7461801
+    },
+    {
+      "path": "ck_original/p17_f61_m2.csv",
+      "uncompressed_bytes": 7379010
+    },
+    {
+      "path": "ck_original/p17_f61_m3.csv",
+      "uncompressed_bytes": 7182967
+    },
+    {
+      "path": "ck_original/p18_f62_m1.csv",
+      "uncompressed_bytes": 11869320
+    },
+    {
+      "path": "ck_original/p18_f62_m2.csv",
+      "uncompressed_bytes": 12014868
+    },
+    {
+      "path": "ck_original/p18_f62_m3.csv",
+      "uncompressed_bytes": 12303721
+    },
+    {
+      "path": "ck_original/p18_f63_m1.csv",
+      "uncompressed_bytes": 10666240
+    },
+    {
+      "path": "ck_original/p18_f63_m2.csv",
+      "uncompressed_bytes": 10883929
+    },
+    {
+      "path": "ck_original/p18_f63_m3.csv",
+      "uncompressed_bytes": 10900928
+    },
+    {
+      "path": "ck_original/p18_f64_m1.csv",
+      "uncompressed_bytes": 8090710
+    },
+    {
+      "path": "ck_original/p18_f64_m2.csv",
+      "uncompressed_bytes": 9320551
+    },
+    {
+      "path": "ck_original/p18_f64_m3.csv",
+      "uncompressed_bytes": 9146884
+    },
+    {
+      "path": "ck_original/p19_f65_m1.csv",
+      "uncompressed_bytes": 5274272
+    },
+    {
+      "path": "ck_original/p19_f65_m2.csv",
+      "uncompressed_bytes": 5379608
+    },
+    {
+      "path": "ck_original/p19_f65_m3.csv",
+      "uncompressed_bytes": 5395833
+    },
+    {
+      "path": "ck_original/p19_f66_m1.csv",
+      "uncompressed_bytes": 5528836
+    },
+    {
+      "path": "ck_original/p19_f66_m2.csv",
+      "uncompressed_bytes": 6032070
+    },
+    {
+      "path": "ck_original/p19_f66_m3.csv",
+      "uncompressed_bytes": 6027607
+    },
+    {
+      "path": "ck_original/p19_f67_m1.csv",
+      "uncompressed_bytes": 6466830
+    },
+    {
+      "path": "ck_original/p19_f67_m2.csv",
+      "uncompressed_bytes": 6455605
+    },
+    {
+      "path": "ck_original/p19_f67_m3.csv",
+      "uncompressed_bytes": 6337490
+    },
+    {
+      "path": "ck_original/p19_f68_m1.csv",
+      "uncompressed_bytes": 5790686
+    },
+    {
+      "path": "ck_original/p19_f68_m2.csv",
+      "uncompressed_bytes": 5707913
+    },
+    {
+      "path": "ck_original/p19_f68_m3.csv",
+      "uncompressed_bytes": 5673983
+    },
+    {
+      "path": "ck_original/p19_f69_m1.csv",
+      "uncompressed_bytes": 5622736
+    },
+    {
+      "path": "ck_original/p19_f69_m2.csv",
+      "uncompressed_bytes": 5666210
+    },
+    {
+      "path": "ck_original/p19_f69_m3.csv",
+      "uncompressed_bytes": 5774561
+    },
+    {
+      "path": "ck_original/p20_f70_m1.csv",
+      "uncompressed_bytes": 5622736
+    },
+    {
+      "path": "ck_original/p20_f70_m2.csv",
+      "uncompressed_bytes": 5666210
+    },
+    {
+      "path": "ck_original/p20_f70_m3.csv",
+      "uncompressed_bytes": 5774561
+    },
+    {
+      "path": "ck_original/p20_f71_m1.csv",
+      "uncompressed_bytes": 12729684
+    },
+    {
+      "path": "ck_original/p20_f71_m2.csv",
+      "uncompressed_bytes": 12972725
+    },
+    {
+      "path": "ck_original/p20_f71_m3.csv",
+      "uncompressed_bytes": 12968694
+    },
+    {
+      "path": "ck_original/p20_f72_m1.csv",
+      "uncompressed_bytes": 5435899
+    },
+    {
+      "path": "ck_original/p20_f72_m2.csv",
+      "uncompressed_bytes": 5411333
+    },
+    {
+      "path": "ck_original/p20_f72_m3.csv",
+      "uncompressed_bytes": 5323101
+    },
+    {
+      "path": "ck_original/p20_f73_m1.csv",
+      "uncompressed_bytes": 6703206
+    },
+    {
+      "path": "ck_original/p20_f73_m2.csv",
+      "uncompressed_bytes": 3589201
+    },
+    {
+      "path": "ck_original/p20_f73_m3.csv",
+      "uncompressed_bytes": 6645446
+    },
+    {
+      "path": "ck_original/p22_f74_m1.csv",
+      "uncompressed_bytes": 8392294
+    },
+    {
+      "path": "ck_original/p22_f74_m2.csv",
+      "uncompressed_bytes": 8708902
+    },
+    {
+      "path": "ck_original/p22_f74_m3.csv",
+      "uncompressed_bytes": 8763999
+    },
+    {
+      "path": "ck_original/p22_f75_m1.csv",
+      "uncompressed_bytes": 6587467
+    },
+    {
+      "path": "ck_original/p22_f75_m2.csv",
+      "uncompressed_bytes": 6474781
+    },
+    {
+      "path": "ck_original/p22_f75_m3.csv",
+      "uncompressed_bytes": 6727923
+    },
+    {
+      "path": "ck_original/p22_f76_m1.csv",
+      "uncompressed_bytes": 7251227
+    },
+    {
+      "path": "ck_original/p22_f76_m2.csv",
+      "uncompressed_bytes": 7217064
+    },
+    {
+      "path": "ck_original/p22_f76_m3.csv",
+      "uncompressed_bytes": 7255459
+    },
+    {
+      "path": "ck_original/p22_f77_m1.csv",
+      "uncompressed_bytes": 6799180
+    },
+    {
+      "path": "ck_original/p22_f77_m2.csv",
+      "uncompressed_bytes": 6807507
+    },
+    {
+      "path": "ck_original/p22_f77_m3.csv",
+      "uncompressed_bytes": 6802315
+    },
+    {
+      "path": "ck_original/p22_f78_m1.csv",
+      "uncompressed_bytes": 8129054
+    },
+    {
+      "path": "ck_original/p22_f78_m2.csv",
+      "uncompressed_bytes": 8129012
+    },
+    {
+      "path": "ck_original/p22_f78_m3.csv",
+      "uncompressed_bytes": 8289886
+    },
+    {
+      "path": "ck_original/p24_f79_m1.csv",
+      "uncompressed_bytes": 5950120
+    },
+    {
+      "path": "ck_original/p24_f79_m2.csv",
+      "uncompressed_bytes": 5945153
+    },
+    {
+      "path": "ck_original/p24_f79_m3.csv",
+      "uncompressed_bytes": 5822670
+    },
+    {
+      "path": "ck_original/p24_f80_m1.csv",
+      "uncompressed_bytes": 5049747
+    },
+    {
+      "path": "ck_original/p24_f80_m2.csv",
+      "uncompressed_bytes": 5048906
+    },
+    {
+      "path": "ck_original/p24_f80_m3.csv",
+      "uncompressed_bytes": 5051096
+    },
+    {
+      "path": "ck_original/p24_f81_m1.csv",
+      "uncompressed_bytes": 6523869
+    },
+    {
+      "path": "ck_original/p24_f81_m2.csv",
+      "uncompressed_bytes": 6459664
+    },
+    {
+      "path": "ck_original/p24_f81_m3.csv",
+      "uncompressed_bytes": 6223091
+    },
+    {
+      "path": "ck_original/p25_f82_m1.csv",
+      "uncompressed_bytes": 11410159
+    },
+    {
+      "path": "ck_original/p25_f82_m2.csv",
+      "uncompressed_bytes": 12009368
+    },
+    {
+      "path": "ck_original/p25_f82_m3.csv",
+      "uncompressed_bytes": 8551336
+    },
+    {
+      "path": "ck_original/p26_f83_m1.csv",
+      "uncompressed_bytes": 3901225
+    },
+    {
+      "path": "ck_original/p26_f83_m2.csv",
+      "uncompressed_bytes": 4019216
+    },
+    {
+      "path": "ck_original/p26_f83_m3.csv",
+      "uncompressed_bytes": 3985390
+    },
+    {
+      "path": "ck_original/p26_f84_m1.csv",
+      "uncompressed_bytes": 3388557
+    },
+    {
+      "path": "ck_original/p26_f84_m2.csv",
+      "uncompressed_bytes": 3386355
+    },
+    {
+      "path": "ck_original/p26_f84_m3.csv",
+      "uncompressed_bytes": 3321812
+    },
+    {
+      "path": "ck_original/p26_f85_m1.csv",
+      "uncompressed_bytes": 3134001
+    },
+    {
+      "path": "ck_original/p26_f85_m2.csv",
+      "uncompressed_bytes": 3193788
+    },
+    {
+      "path": "ck_original/p26_f85_m3.csv",
+      "uncompressed_bytes": 3195504
+    },
+    {
+      "path": "ck_original/p28_f86_m1.csv",
+      "uncompressed_bytes": 7337785
+    },
+    {
+      "path": "ck_original/p28_f86_m2.csv",
+      "uncompressed_bytes": 7402030
+    },
+    {
+      "path": "ck_original/p28_f86_m3.csv",
+      "uncompressed_bytes": 7256939
+    },
+    {
+      "path": "ck_original/p28_f87_m1.csv",
+      "uncompressed_bytes": 7248921
+    },
+    {
+      "path": "ck_original/p28_f87_m2.csv",
+      "uncompressed_bytes": 7385086
+    },
+    {
+      "path": "ck_original/p28_f87_m3.csv",
+      "uncompressed_bytes": 7243104
+    },
+    {
+      "path": "ck_original/p28_f88_m1.csv",
+      "uncompressed_bytes": 6580775
+    },
+    {
+      "path": "ck_original/p28_f88_m2.csv",
+      "uncompressed_bytes": 6698595
+    },
+    {
+      "path": "ck_original/p28_f88_m3.csv",
+      "uncompressed_bytes": 6574610
+    },
+    {
+      "path": "ck_original/p30_f89_m1.csv",
+      "uncompressed_bytes": 6238268
+    },
+    {
+      "path": "ck_original/p30_f89_m2.csv",
+      "uncompressed_bytes": 6249819
+    },
+    {
+      "path": "ck_original/p30_f89_m3.csv",
+      "uncompressed_bytes": 6367559
+    },
+    {
+      "path": "ck_original/p30_f90_m1.csv",
+      "uncompressed_bytes": 6496200
+    },
+    {
+      "path": "ck_original/p30_f90_m2.csv",
+      "uncompressed_bytes": 6379856
+    },
+    {
+      "path": "ck_original/p30_f90_m3.csv",
+      "uncompressed_bytes": 6491267
+    },
+    {
+      "path": "ck_original/p30_f91_m1.csv",
+      "uncompressed_bytes": 6320987
+    },
+    {
+      "path": "ck_original/p30_f91_m2.csv",
+      "uncompressed_bytes": 6207077
+    },
+    {
+      "path": "ck_original/p30_f91_m3.csv",
+      "uncompressed_bytes": 6112229
+    },
+    {
+      "path": "ck_original/p32_f92_m1.csv",
+      "uncompressed_bytes": 8448965
+    },
+    {
+      "path": "ck_original/p32_f92_m2.csv",
+      "uncompressed_bytes": 8575384
+    },
+    {
+      "path": "ck_original/p32_f92_m3.csv",
+      "uncompressed_bytes": 8449231
+    },
+    {
+      "path": "ck_original/p32_f93_m1.csv",
+      "uncompressed_bytes": 9262356
+    },
+    {
+      "path": "ck_original/p32_f93_m2.csv",
+      "uncompressed_bytes": 9232126
+    },
+    {
+      "path": "ck_original/p32_f93_m3.csv",
+      "uncompressed_bytes": 9169597
+    },
+    {
+      "path": "ck_original/p32_f94_m1.csv",
+      "uncompressed_bytes": 8610667
+    },
+    {
+      "path": "ck_original/p32_f94_m2.csv",
+      "uncompressed_bytes": 9696543
+    },
+    {
+      "path": "ck_original/p32_f94_m3.csv",
+      "uncompressed_bytes": 3536450
+    },
+    {
+      "path": "ck_original/p34_f95_m1.csv",
+      "uncompressed_bytes": 4840664
+    },
+    {
+      "path": "ck_original/p34_f95_m2.csv",
+      "uncompressed_bytes": 4688804
+    },
+    {
+      "path": "ck_original/p34_f95_m3.csv",
+      "uncompressed_bytes": 4739127
+    },
+    {
+      "path": "ck_original/p34_f96_m1.csv",
+      "uncompressed_bytes": 4621734
+    },
+    {
+      "path": "ck_original/p34_f96_m2.csv",
+      "uncompressed_bytes": 4766454
+    },
+    {
+      "path": "ck_original/p34_f96_m3.csv",
+      "uncompressed_bytes": 4672616
+    },
+    {
+      "path": "ck_original/p34_f97_m1.csv",
+      "uncompressed_bytes": 2689292
+    },
+    {
+      "path": "ck_original/p34_f97_m2.csv",
+      "uncompressed_bytes": 2725060
+    },
+    {
+      "path": "ck_original/p34_f97_m3.csv",
+      "uncompressed_bytes": 2596791
+    },
+    {
+      "path": "ck_original/p35_f100_m1.csv",
+      "uncompressed_bytes": 7881605
+    },
+    {
+      "path": "ck_original/p35_f100_m2.csv",
+      "uncompressed_bytes": 3344832
+    },
+    {
+      "path": "ck_original/p35_f100_m3.csv",
+      "uncompressed_bytes": 6646233
+    },
+    {
+      "path": "ck_original/p35_f102_m1.csv",
+      "uncompressed_bytes": 6192726
+    },
+    {
+      "path": "ck_original/p35_f102_m2.csv",
+      "uncompressed_bytes": 6225975
+    },
+    {
+      "path": "ck_original/p35_f102_m3.csv",
+      "uncompressed_bytes": 6226545
+    },
+    {
+      "path": "ck_original/p35_f103_m1.csv",
+      "uncompressed_bytes": 5779656
+    },
+    {
+      "path": "ck_original/p35_f103_m2.csv",
+      "uncompressed_bytes": 5692477
+    },
+    {
+      "path": "ck_original/p35_f103_m3.csv",
+      "uncompressed_bytes": 5917190
+    },
+    {
+      "path": "ck_original/p35_f98_m1.csv",
+      "uncompressed_bytes": 6556810
+    },
+    {
+      "path": "ck_original/p35_f98_m2.csv",
+      "uncompressed_bytes": 6534529
+    },
+    {
+      "path": "ck_original/p35_f98_m3.csv",
+      "uncompressed_bytes": 6608908
+    },
+    {
+      "path": "ck_original/p35_f99_m1.csv",
+      "uncompressed_bytes": 8420218
+    },
+    {
+      "path": "ck_original/p35_f99_m2.csv",
+      "uncompressed_bytes": 8461687
+    },
+    {
+      "path": "ck_original/p35_f99_m3.csv",
+      "uncompressed_bytes": 8614759
+    },
+    {
+      "path": "ck_original/p37_f104_m1.csv",
+      "uncompressed_bytes": 6237670
+    },
+    {
+      "path": "ck_original/p37_f104_m2.csv",
+      "uncompressed_bytes": 6119984
+    },
+    {
+      "path": "ck_original/p37_f104_m3.csv",
+      "uncompressed_bytes": 6239932
+    },
+    {
+      "path": "ck_original/p37_f105_m1.csv",
+      "uncompressed_bytes": 8683452
+    },
+    {
+      "path": "ck_original/p37_f105_m2.csv",
+      "uncompressed_bytes": 8599992
+    },
+    {
+      "path": "ck_original/p37_f105_m3.csv",
+      "uncompressed_bytes": 8754897
+    },
+    {
+      "path": "ck_original/p38_f106_m1.csv",
+      "uncompressed_bytes": 7780864
+    },
+    {
+      "path": "ck_original/p38_f106_m2.csv",
+      "uncompressed_bytes": 7832829
+    },
+    {
+      "path": "ck_original/p38_f106_m3.csv",
+      "uncompressed_bytes": 7970238
+    },
+    {
+      "path": "ck_original/p38_f107_m1.csv",
+      "uncompressed_bytes": 7682194
+    },
+    {
+      "path": "ck_original/p38_f107_m2.csv",
+      "uncompressed_bytes": 7691826
+    },
+    {
+      "path": "ck_original/p38_f107_m3.csv",
+      "uncompressed_bytes": 7506108
+    },
+    {
+      "path": "ck_original/p38_f108_m1.csv",
+      "uncompressed_bytes": 7494086
+    },
+    {
+      "path": "ck_original/p38_f108_m2.csv",
+      "uncompressed_bytes": 7367026
+    },
+    {
+      "path": "ck_original/p38_f108_m3.csv",
+      "uncompressed_bytes": 7433749
+    },
+    {
+      "path": "ck_original/p39_f109_m1.csv",
+      "uncompressed_bytes": 5840878
+    },
+    {
+      "path": "ck_original/p39_f109_m2.csv",
+      "uncompressed_bytes": 5872490
+    },
+    {
+      "path": "ck_original/p39_f109_m3.csv",
+      "uncompressed_bytes": 5980274
+    },
+    {
+      "path": "ck_original/p39_f110_m1.csv",
+      "uncompressed_bytes": 5627982
+    },
+    {
+      "path": "ck_original/p39_f110_m2.csv",
+      "uncompressed_bytes": 5523489
+    },
+    {
+      "path": "ck_original/p39_f110_m3.csv",
+      "uncompressed_bytes": 5382379
+    },
+    {
+      "path": "ck_original/p39_f111_m1.csv",
+      "uncompressed_bytes": 5270360
+    },
+    {
+      "path": "ck_original/p39_f111_m2.csv",
+      "uncompressed_bytes": 5103311
+    },
+    {
+      "path": "ck_original/p39_f111_m3.csv",
+      "uncompressed_bytes": 5184981
+    },
+    {
+      "path": "ck_original/p40_f112_m1.csv",
+      "uncompressed_bytes": 9581071
+    },
+    {
+      "path": "ck_original/p40_f112_m2.csv",
+      "uncompressed_bytes": 9924444
+    },
+    {
+      "path": "ck_original/p40_f112_m3.csv",
+      "uncompressed_bytes": 9717136
+    },
+    {
+      "path": "ck_original/p41_f113_m1.csv",
+      "uncompressed_bytes": 5844468
+    },
+    {
+      "path": "ck_original/p41_f113_m2.csv",
+      "uncompressed_bytes": 5882679
+    },
+    {
+      "path": "ck_original/p41_f113_m3.csv",
+      "uncompressed_bytes": 5770516
+    },
+    {
+      "path": "ck_original/p41_f114_m1.csv",
+      "uncompressed_bytes": 5356753
+    },
+    {
+      "path": "ck_original/p41_f114_m2.csv",
+      "uncompressed_bytes": 5566779
+    },
+    {
+      "path": "ck_original/p41_f114_m3.csv",
+      "uncompressed_bytes": 5640486
+    },
+    {
+      "path": "ck_original/p41_f115_m1.csv",
+      "uncompressed_bytes": 2026351
+    },
+    {
+      "path": "ck_original/p41_f115_m2.csv",
+      "uncompressed_bytes": 5481351
+    },
+    {
+      "path": "ck_original/p41_f115_m3.csv",
+      "uncompressed_bytes": 5516774
+    },
+    {
+      "path": "ck_original/p42_f116_m1.csv",
+      "uncompressed_bytes": 7148747
+    },
+    {
+      "path": "ck_original/p42_f116_m2.csv",
+      "uncompressed_bytes": 7149686
+    },
+    {
+      "path": "ck_original/p42_f116_m3.csv",
+      "uncompressed_bytes": 7010277
+    },
+    {
+      "path": "ck_original/p42_f117_m1.csv",
+      "uncompressed_bytes": 6726279
+    },
+    {
+      "path": "ck_original/p42_f117_m2.csv",
+      "uncompressed_bytes": 6846777
+    },
+    {
+      "path": "ck_original/p42_f117_m3.csv",
+      "uncompressed_bytes": 6732826
+    },
+    {
+      "path": "ck_original/p42_f118_m1.csv",
+      "uncompressed_bytes": 6706276
+    },
+    {
+      "path": "ck_original/p42_f118_m2.csv",
+      "uncompressed_bytes": 6841245
+    },
+    {
+      "path": "ck_original/p42_f118_m3.csv",
+      "uncompressed_bytes": 6648062
+    },
+    {
+      "path": "ck_original/p43_f119_m1.csv",
+      "uncompressed_bytes": 7632788
+    },
+    {
+      "path": "ck_original/p43_f119_m2.csv",
+      "uncompressed_bytes": 7347612
+    },
+    {
+      "path": "ck_original/p43_f119_m3.csv",
+      "uncompressed_bytes": 7687548
+    },
+    {
+      "path": "ck_original/p43_f120_m1.csv",
+      "uncompressed_bytes": 6532149
+    },
+    {
+      "path": "ck_original/p43_f120_m2.csv",
+      "uncompressed_bytes": 6591229
+    },
+    {
+      "path": "ck_original/p43_f120_m3.csv",
+      "uncompressed_bytes": 6713101
+    },
+    {
+      "path": "ck_original/p43_f121_m1.csv",
+      "uncompressed_bytes": 6696949
+    },
+    {
+      "path": "ck_original/p43_f121_m2.csv",
+      "uncompressed_bytes": 6785764
+    },
+    {
+      "path": "ck_original/p43_f121_m3.csv",
+      "uncompressed_bytes": 6325540
+    },
+    {
+      "path": "ck_original/p6_f19_m1.csv",
+      "uncompressed_bytes": 6816038
+    },
+    {
+      "path": "ck_original/p6_f19_m2.csv",
+      "uncompressed_bytes": 6824336
+    },
+    {
+      "path": "ck_original/p6_f19_m3.csv",
+      "uncompressed_bytes": 6869151
+    },
+    {
+      "path": "ck_original/p6_f20_m1.csv",
+      "uncompressed_bytes": 6507955
+    },
+    {
+      "path": "ck_original/p6_f20_m2.csv",
+      "uncompressed_bytes": 6427200
+    },
+    {
+      "path": "ck_original/p6_f20_m3.csv",
+      "uncompressed_bytes": 6066018
+    },
+    {
+      "path": "ck_original/p6_f21_m1.csv",
+      "uncompressed_bytes": 6325412
+    },
+    {
+      "path": "ck_original/p6_f21_m2.csv",
+      "uncompressed_bytes": 6215665
+    },
+    {
+      "path": "ck_original/p6_f21_m3.csv",
+      "uncompressed_bytes": 5482530
+    },
+    {
+      "path": "ck_original/p7_f22_m1.csv",
+      "uncompressed_bytes": 7938387
+    },
+    {
+      "path": "ck_original/p7_f22_m2.csv",
+      "uncompressed_bytes": 7659452
+    },
+    {
+      "path": "ck_original/p7_f22_m3.csv",
+      "uncompressed_bytes": 8084045
+    },
+    {
+      "path": "ck_original/p7_f23_m1.csv",
+      "uncompressed_bytes": 7112390
+    },
+    {
+      "path": "ck_original/p7_f23_m2.csv",
+      "uncompressed_bytes": 6978192
+    },
+    {
+      "path": "ck_original/p7_f23_m3.csv",
+      "uncompressed_bytes": 7242801
+    },
+    {
+      "path": "ck_original/p7_f24_m1.csv",
+      "uncompressed_bytes": 7396462
+    },
+    {
+      "path": "ck_original/p7_f24_m2.csv",
+      "uncompressed_bytes": 7537899
+    },
+    {
+      "path": "ck_original/p7_f24_m3.csv",
+      "uncompressed_bytes": 7263794
+    },
+    {
+      "path": "ck_original/p8_f25_m1.csv",
+      "uncompressed_bytes": 4412091
+    },
+    {
+      "path": "ck_original/p8_f25_m2.csv",
+      "uncompressed_bytes": 6635497
+    },
+    {
+      "path": "ck_original/p8_f25_m3.csv",
+      "uncompressed_bytes": 6327368
+    },
+    {
+      "path": "ck_original/p8_f26_m1.csv",
+      "uncompressed_bytes": 508808
+    },
+    {
+      "path": "ck_original/p8_f26_m2.csv",
+      "uncompressed_bytes": 910827
+    },
+    {
+      "path": "ck_original/p8_f26_m3.csv",
+      "uncompressed_bytes": 861101
+    },
+    {
+      "path": "ck_original/p9_f27_m1.csv",
+      "uncompressed_bytes": 7648520
+    },
+    {
+      "path": "ck_original/p9_f27_m2.csv",
+      "uncompressed_bytes": 7798883
+    },
+    {
+      "path": "ck_original/p9_f27_m3.csv",
+      "uncompressed_bytes": 7798885
+    },
+    {
+      "path": "ck_original/p9_f28_m1.csv",
+      "uncompressed_bytes": 7320915
+    },
+    {
+      "path": "ck_original/p9_f28_m2.csv",
+      "uncompressed_bytes": 7451367
+    },
+    {
+      "path": "ck_original/p9_f28_m3.csv",
+      "uncompressed_bytes": 7464512
+    },
+    {
+      "path": "ck_original/p9_f29_m1.csv",
+      "uncompressed_bytes": 5852219
+    },
+    {
+      "path": "ck_original/p9_f29_m2.csv",
+      "uncompressed_bytes": 5827297
+    },
+    {
+      "path": "ck_original/p9_f29_m3.csv",
+      "uncompressed_bytes": 5964864
+    },
+    {
+      "path": "ck_original/p9_f30_m1.csv",
+      "uncompressed_bytes": 1902057
+    },
+    {
+      "path": "ck_original/p9_f30_m2.csv",
+      "uncompressed_bytes": 1917384
+    },
+    {
+      "path": "ck_original/p9_f30_m3.csv",
+      "uncompressed_bytes": 1939819
+    },
+    {
+      "path": "ck_original/p9_f31_m1.csv",
+      "uncompressed_bytes": 7455197
+    },
+    {
+      "path": "ck_original/p9_f31_m2.csv",
+      "uncompressed_bytes": 7454693
+    },
+    {
+      "path": "ck_original/p9_f31_m3.csv",
+      "uncompressed_bytes": 7599154
+    },
+    {
+      "path": "ck_original/p9_f32_m1.csv",
+      "uncompressed_bytes": 7201639
+    },
+    {
+      "path": "ck_original/p9_f32_m2.csv",
+      "uncompressed_bytes": 7344016
+    },
+    {
+      "path": "ck_original/p9_f32_m3.csv",
+      "uncompressed_bytes": 7351405
+    }
+  ]
+}
